@@ -274,3 +274,15 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+resume.tex
+sections/activities.tex
+sections/education.tex
+sections/experience.tex
+sections/objective.tex
+sections/skills.tex
+TLCresume.sty
+README.md
+LICENSE.txt
+data_science_tech_resume_template1024_1.png
+data_science_tech_resume_template.pdf
+_header.tex
